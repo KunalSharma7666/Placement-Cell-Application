@@ -1,1 +1,2 @@
-FutureBuilder - Placement Cell Application in Java
+# FutureBuilder - Placement Cell Application in Java
+Developed a platform featuring a repository of both companies and students. Firms have the ability to outline their prerequisites within the system. Students can browse through the listed companies and their specifications, opting to enroll with their preferred choices. Based on the established criteria, companies extend offers, which students can either accept or decline.
